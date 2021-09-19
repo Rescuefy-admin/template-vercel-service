@@ -33,7 +33,7 @@
       "url": "https://github.com/Rescuefy"
     }
   ],
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Rescuefy-admin/{serviceName}-service/issues/new?labels=bug&template=bug.md&title=[BUG]"
   },

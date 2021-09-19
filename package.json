@@ -7,7 +7,7 @@
     "coverage": "nyc npm test",
     "deploy": "vercel --prod",
     "lint": "eslint lib/ tests/",
-    "test": "export TEST_ENV=true; mocha --exit --recursive tests/",
+    "test": "export TEST_ENV=true; mocha -R Min --exit --recursive tests/",
     "test-ci": "nyc --reporter=lcov --reporter=text-summary mocha --exit --recursive tests/",
     "start": "vercel dev",
     "vercel-login": "vercel login --github"

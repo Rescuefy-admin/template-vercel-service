@@ -4,7 +4,8 @@
     "coverage/",
     ".eslintrc.js",
     "actions/",
-    "api/",
+    "api/not-found/message.js",
+    "api/index.js",
     "config/"
   ],
   "extension": [
@@ -17,5 +18,6 @@
   "statements": 95,
   "branches": 95,
   "functions": 95,
-  "lines": 95
+  "lines": 95,
+  "skip-full": true
 }

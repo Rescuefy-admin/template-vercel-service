@@ -45,7 +45,8 @@
     "mocha": "^9.1.1",
     "nyc": "^15.1.0",
     "sinon": "^11.1.2",
-    "vercel": "^23.1.2"
+    "vercel": "^23.1.2",
+    "vercel-serverless-tests": "^1.0.0"
   },
   "dependencies": {
     "handlebars": "^4.7.7",
